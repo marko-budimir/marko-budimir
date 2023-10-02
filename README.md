@@ -5,6 +5,13 @@ Here on my GitHub page, you'll find some of my projects, where I strive to creat
 
 ### Past experience
 <ul>
+  <li> 5 week internship at Enea </li>
+  <ul>
+    <li><a href="https://github.com/marko-budimir/DedicateGameServer">Dedicate Game Server</a></li>
+    <li>Java Socket - TCP/UDP</li>
+    <li><a href="https://www.lwjgl.org/">LWJGL</a></li>
+    <li>Multithreading</li>
+  </ul>
   <li> 6 month internship at Barrage </li>
   <ul>
       <li>Android development (Kotlin)</li>
@@ -22,12 +29,11 @@ Here on my GitHub page, you'll find some of my projects, where I strive to creat
 </ul>
 
 ### Skills
-- Kotlin
-- Java
-- C#
-- C
+- <b>Kotlin</b>
+- <b>Java</b>
+- C/C++
 - Python
+- SQL
 
-### Currently working on
-- <a href="https://github.com/marko-budimir/Konto">Konto</a> - Android application designed for bookkeeping clients, providing them with a convenient way to track their expenses and incomes.   
+### Currently working on   
 - Graduation thesis: Emotion recognition based on facial images
