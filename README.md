@@ -31,6 +31,7 @@ Here on my GitHub page, you'll find some of my projects, where I strive to creat
 ### Skills
 - <b>Kotlin</b>
 - <b>Java</b>
+- C#
 - C/C++
 - Python
 - SQL
