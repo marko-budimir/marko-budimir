@@ -1,10 +1,15 @@
 ## Hi there 👋
-My name is Marko Budimir. I am in my final year as a student at the Faculty of Electrical Engineering, Computer Science, and Information Technology Osijek. I have previously got my Bachelor's degree in Computer Engineering at the same faculty.  I am currently honing my skills and working towards becoming a proficient developer in this exciting field. 
+My name is Marko Budimir. I am a software engineer at Mono Software. I am currently honing my skills and working towards becoming a proficient developer in this exciting field. 
 
 Here on my GitHub page, you'll find some of my projects, where I strive to create useful, functional, and user-friendly applications. I am always eager to learn new things and collaborate with others, so don't hesitate to reach out if you'd like to connect or work together.
 
 ### Experience
 <ul>
+  <li> Currently working at Mono </li>
+  <ul>
+      <li>Full stack development</li>
+      <li>.NET Framework, React, PostgreSQL</li>
+  </ul>
   <li> 5 week internship at Mono </li>
   <ul>
       <li><a href="https://github.com/marko-budimir/HotelManager">Hotel Manager</a></li>
@@ -32,12 +37,6 @@ Here on my GitHub page, you'll find some of my projects, where I strive to creat
 </ul>
 
 ### Skills
-- <b>Kotlin</b>
-- <b>Java</b>
-- <b>C#</b>
-- C/C++
-- Python
-- SQL
-
-### Currently working on   
-- Graduation thesis: Emotion recognition based on facial images
+- <b>.NET</b>
+- <b>SQL</b>
+- React.js
